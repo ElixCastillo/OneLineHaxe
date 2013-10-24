@@ -35,6 +35,8 @@ I'd love to collect different scripts here for different OS's and different Haxe
 
 If you have any extra info, eg ("this also works with Ubuntu 13.04") send a pull request with an update to the README.
 
+Latest Git also works in Debian 7 64-Bit with Haxe 3.1.0 as is, without change
+
 ##### Issues
 
 If you have any issues, requests, or pull requests just aren't your thing, feel free to file a [New Issue](https://github.com/jasononeil/OneLineHaxe/issues/new) and we'll try look at it.
